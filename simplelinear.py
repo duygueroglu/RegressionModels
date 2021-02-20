@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
 
 #reading .csv file data
 data = pd.read_csv("hw_25000.csv")
@@ -32,3 +33,6 @@ plt.xlabel("Height")
 plt.ylabel("Weight")
 plt.title("Simple Linear Regression Model")
 plt.show()
+
+#calculation of algorithm success using r-square method
+print(r2_score(weight, regression.predict(height)))
