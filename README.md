@@ -9,7 +9,7 @@ This repo includes machine learning regression models and graphics.
 + [Decision Tree Regression Model](https://github.com/duygueroglu/RegressionModels/blob/main/decisionTree.ipynb)
 + [Random Forest Regression Model](https://github.com/duygueroglu/RegressionModels/blob/main/randomForest.ipynb)
 
-## Descriptions
+## Descriptions and Graphics
 
 ### Simple Linear Regression Model
 
