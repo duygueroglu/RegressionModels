@@ -14,6 +14,7 @@ This repo includes machine learning regression models and graphics.
 ### Simple Linear Regression Model
 
 If a regression problem consists of an estimation variable (X) and the value to be predicted (Y), simple linear regression can be considered sufficiently sensitive(directly affect).
+
 ![](https://github.com/duygueroglu/RegressionModels/blob/main/simplelinear.png)
 
 ### Multiple Linear Regression Model
