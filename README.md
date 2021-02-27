@@ -2,7 +2,7 @@
 This repo includes machine learning regression models and graphics.
 
 ## Table of Contents
-=============
+
 + [Simple Linear Regression Model](https://github.com/duygueroglu/RegressionModels/blob/main/simplelinear.ipynb)
 + [Multiple Linear Regression Model](https://github.com/duygueroglu/RegressionModels/blob/main/multiplelinear.py)
 + [Polynomial Regression Model](https://github.com/duygueroglu/RegressionModels/blob/main/polyRegression.ipynb)
