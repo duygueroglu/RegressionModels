@@ -37,3 +37,9 @@ Decision trees are structures that emerge by dividing the dataset into homogeneo
 
 It is an ensemble / community learning algorithm for regression that consists of multiple decision trees.
 + While a "Decision Tree" is being trained, it creates a single model using all the data allocated for the train. However, Random Forest trains each tree with the random data it chooses in the train data (not using all of the train data for each tree) depending on the number of trees selected. Therefore, every tree in the community is trained as different models.
+
+Author
+=============
+👤 Duygu Eroğlu
+* Github: [@duygueroglu](https://github.com/duygueroglu "@duygueroglu")
+* Linkedin: [Duygu Eroğlu](https://www.linkedin.com/in/duygu-eroglu-75428796/ "Duygu Eroğlu")
